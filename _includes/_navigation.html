@@ -103,7 +103,7 @@
             {% else %}
 
               <li class="has-dropdown{% if link.url == page.url %} active{% endif %}">
-                <span>{{ link.title | escape }}</span>
+                <span>TEST {{ link.title | escape }}</span>
 
                   <ul class="dropdown">
                     {% for dropdown_link in link.dropdown %}
