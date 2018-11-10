@@ -58,7 +58,7 @@ gems:
 #
 #
 prose:
-  rooturl: '_posts'
+  rooturl: ''
   siteurl: 'http://tmfrnz.github.io/feeling-responsive-test/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets'
@@ -67,6 +67,8 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
+    - /_drafts
+    - /images
 
 #       ____              _             __  _
 #      / __ \____ _____ _(_)___  ____ _/ /_(_)___  ____
