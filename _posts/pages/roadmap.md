@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Roadmap"
-subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some ideas and features I want to implement in the future."
+title: Roadmap
+subheadline: ToDo-List &amp; Ideas
+teaser: Here are some ideas and features I want to implement in the future.
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
+  image_fullwidth: header_roadmap_3.jpg
+permalink: /roadmap/
+published: true
 ---
+## Change test
+
+* Just messing around
 
 ## Ideas and possible new features
 {: .t30 }
