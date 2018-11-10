@@ -68,6 +68,9 @@ prose:
     - /_layouts
     - /_includes
     - /_drafts
+    - /_sass
+    - /_data
+    - /assets
     - /images
 
 #       ____              _             __  _
